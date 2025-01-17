@@ -1,0 +1,67 @@
+Thu Aug 29 14:07:23 IST 2024
+Trace back: Macro Break
+    while executing
+"macroMark"
+    (procedure "update" line 6)
+    invoked from within
+"update idletasks"
+    (object "::.main_pane.wave.interior.cs.controls" method "::mtiwidgets::Dockbar::redoPack" body line 63)
+    invoked from within
+"redoPack {Visibility Event}"
+    ("eval" body line 1)
+    invoked from within
+"eval $args"
+    (object "::.main_pane.wave.interior.cs.controls" method "::mtiwidgets::Dockbar::_delayedEval" body line 3)
+    invoked from within
+"::.main_pane.wave.interior.cs.controls _delayedEval redoPack {Visibility Event}"
+    (in namespace inscope "::mtiwidgets::Dockbar" script line 1)
+    invoked from within
+"namespace inscope ::mtiwidgets::Dockbar ::.main_pane.wave.interior.cs.controls _delayedEval redoPack {Visibility Event}"
+    ("after" script)
+  <2:E:/Questa/win64/tk8.5/bgerror.tcl:92: ::tkerror {Macro Break}
+  <1:eval:1: ::tk::dialog::error::bgerror {Macro Break}
+Wed Sep 11 22:18:54 IST 2024
+Trace back: invalid command name "SrcCommon::LoadDBSDialog"
+    while executing
+"SrcCommon::LoadDBSDialog"
+    ("after" script)
+  <2:E:/Questa/win64/tk8.5/bgerror.tcl:92: ::tkerror {invalid command name "SrcCommon::LoadDBSDialog"}
+  <1:eval:1: ::tk::dialog::error::bgerror {invalid command name "SrcCommon::LoadDBSDialog"}
+Tue Sep 17 11:20:17 IST 2024
+Trace back: Macro Break
+    while executing
+"macroMark"
+    (procedure "update" line 6)
+    invoked from within
+"update idletasks"
+    (object "::.main_pane.structure.interior.cs.body.struct" method "::iwidgets::Scrolledwidget::_configureEvent" body line 2)
+    invoked from within
+"::.main_pane.structure.interior.cs.body.struct _configureEvent"
+    (in namespace inscope "::iwidgets::Scrolledwidget" script line 1)
+    invoked from within
+"namespace inscope ::iwidgets::Scrolledwidget {::.main_pane.structure.interior.cs.body.struct _configureEvent}"
+    (command bound to event)
+  <2:E:/Questa/win64/tk8.5/bgerror.tcl:92: ::tkerror {Macro Break}
+  <1:eval:1: ::tk::dialog::error::bgerror {Macro Break}
+Sat Dec 21 11:03:54 IST 2024
+Trace back: Macro Break
+    while executing
+"macroMark"
+    (procedure "update" line 6)
+    invoked from within
+"update idletasks"
+    (object "::.main_pane.wave.interior.cs.controls" method "::mtiwidgets::Dockbar::redoPack" body line 63)
+    invoked from within
+"redoPack {Visibility Event}"
+    ("eval" body line 1)
+    invoked from within
+"eval $args"
+    (object "::.main_pane.wave.interior.cs.controls" method "::mtiwidgets::Dockbar::_delayedEval" body line 3)
+    invoked from within
+"::.main_pane.wave.interior.cs.controls _delayedEval redoPack {Visibility Event}"
+    (in namespace inscope "::mtiwidgets::Dockbar" script line 1)
+    invoked from within
+"namespace inscope ::mtiwidgets::Dockbar ::.main_pane.wave.interior.cs.controls _delayedEval redoPack {Visibility Event}"
+    ("after" script)
+  <2:E:/Questa/win64/tk8.5/bgerror.tcl:92: ::tkerror {Macro Break}
+  <1:eval:1: ::tk::dialog::error::bgerror {Macro Break}
